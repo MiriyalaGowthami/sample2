@@ -1,0 +1,26 @@
+
+    <resources>
+        <!-- Other string resources -->
+
+        <string-array name="food_items_array">
+            <item>Pizza</item>
+            <item>Burger</item>
+            <item>Sushi</item>
+            <item>Pasta</item>
+            <item>Salad</item>
+            <item>Ice Cream</item>
+            <item>Sandwich</item>
+            <item>Fries</item>
+            <item>Tacos</item>
+            <item>Steak</item>
+        </string-array>
+
+
+        <string-array name="food_prices_array">
+            <item>$10</item>
+            <item>$8</item>
+            <item>$12</item>
+            <item>$7</item>
+        </string-array>
+
+    </resources>
